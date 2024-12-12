@@ -1,4 +1,20 @@
-# ArsCounter
-These are applications for counting pollen or any other microfossils. You can add the necessary taxa for counting or load a preset.
-Это приложения для подсчета пыльца или любых других микрофосиилий. Вы можете добавить необходимые таксоны для подсчета или загрузить пресет. 
-проект разработан в рамках РНФ №22-14-00332
+#  ArsCounter
+
+
+Это приложение для подсчета пыльца или любых других микрофосиилий.
+Вы можете добавить необходимые таксоны для подсчета или загрузить пресет. 
+
+*Проект разработан в рамках РНФ №22-14-00332.*
+
+These are application for counting pollen or any other microfossils. You can add the necessary taxa for counting or load a preset.
+
+# Порядок работы
+
+## Распакуйте архив в любую папку
+
+У вас будет два файла ArsCounter.exe и list.csv
+list.csv нужен для создания предзагруженных кнопок. Его можно удалить и добавлять кнопки вручную. 
+
+## Рабочее окно приложения
+
+Здесь вы можете добавить кнопку нажав на область с соответсвующим названием
