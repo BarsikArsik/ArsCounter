@@ -6,7 +6,7 @@
 
 *Проект разработан в рамках РНФ №22-14-00332.*
 
-These are application for counting pollen or any other microfossils. You can add the necessary taxa for counting or load a preset.
+This is an application for counting pollen or any other microfossils. You can add the necessary taxa for counting or load a preset.
 
 # Порядок работы
 
